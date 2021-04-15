@@ -1,3 +1,0 @@
-git remote add origin https://github.com/Jbbermeou/Road-to-Data-Scientist.git
-git branch -M main
-git push -u origin main
